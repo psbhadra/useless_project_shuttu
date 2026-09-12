@@ -87,13 +87,34 @@ The optional AI mode connects directly to Groq's API and supports selectable Gro
 
 ---
 
-# Implementation
+# Project Documentation
+For Software: 
 
-## For Software:
+# Screenshots
+![Screenshot1]
+<img width="1914" height="935" alt="image" src="https://github.com/user-attachments/assets/a47e0507-d312-4dc5-9148-2adfe021c7f8" />
+Home page
 
-### Project Structure
+![Screenshot2]
+<img width="1920" height="933" alt="image" src="https://github.com/user-attachments/assets/6414e9be-08b5-492d-a7e2-730e82834727" />
+Conversation
 
-```text
+![Screenshot3]
+<img width="1920" height="932" alt="image" src="https://github.com/user-attachments/assets/f74f477f-34e7-4a4e-a714-012b2b5dcbac" />
+Final search result
+
+#Build
+![Build]
+<img width="1870" height="969" alt="image" src="https://github.com/user-attachments/assets/17005400-ce02-4a3a-ad5a-4cee4df1e020" />
+<img width="1916" height="1044" alt="image" src="https://github.com/user-attachments/assets/cfa8aed1-3dbe-461f-a10d-ae8ffc2ea6c5" />
+Used antigravity for prototype, visual studio code for editing, groq for API key.
+
+### Project Demo # Video 
+
+(https://drive.google.com/file/d/1j77p1EqKu0HeBoigFzWr9P1l0XIk8rm0/view?usp=drive_link)
+We demonstrated an example of our Shuttu🎀's working.
+
+
 Shuttu🎀/
 │
 ├── index.html
